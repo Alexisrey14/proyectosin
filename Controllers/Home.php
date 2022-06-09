@@ -7,7 +7,8 @@ class Home extends Controller
     }
     public function index()
     {
-        $data['title'] = 'Pagina Principal';
+        $data['title'] = 'SIN 2022-I';
         $this->views->getView('home', "index", $data);
     }
+    
 }
