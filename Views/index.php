@@ -33,7 +33,7 @@
             </div>
             <div class="col-lg-6 mb-0 d-flex align-items-center">
               <div class="text-align-left">
-                <h1 class="h1">Cambio qki :)</h1>
+                <h1 class="h1">Cambio qki2 :)</h1>
                 <h3 class="h2">Aliquip ex ea commodo consequat</h3>
                 <p>
                   You are permitted to use this Zay CSS template for your commercial websites.
